@@ -6,6 +6,6 @@
         VIA CPUs Frequency(per core)
     - Usages
         All of CPUs(per core)
--Not Support
+- Not Support
     - Frequency
         AMD CPUs
